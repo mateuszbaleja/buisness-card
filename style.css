@@ -4,3 +4,15 @@ html{
 *, *:before, *:after{
     box-sizing: inherit;
 }
+body{
+    background: #2C2141;
+    display:flex;
+    justify-content: center;
+    
+}
+.main{
+    background: #E5E5E5;    
+    border-radius: 16px;
+    width: 624px;
+    
+}
