@@ -6,13 +6,49 @@ html{
 }
 body{
     background: #2C2141;
-    display:flex;
+    display: flex;
     justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    
     
 }
 .main{
     background: #E5E5E5;    
     border-radius: 16px;
+    box-sizing: border-box;
     width: 624px;
+    padding: 32px;
+    display: flex;
+    
+    
+    
+}
+.article{
+
+}
+
+.article__link{
+    text-decoration: none;
+    
+
+}
+
+.article__paragraph{
+
+}
+
+.header{
+
+}
+
+.header__name{
+   
+}
+
+.header__paragraph{
+
+}
+
+.header__picture{
     
 }
