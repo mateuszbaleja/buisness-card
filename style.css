@@ -14,6 +14,7 @@ body {
   justify-content: center;
   min-height: 100vh;
   font-family: Arial;
+  
 
 }
 .main {
@@ -24,8 +25,11 @@ body {
   display: flex;
   align-items: flex-start;
   font-size: 16px;
-  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  box-shadow:0 0 15px black;
 }
+
+
 .article {
 }
 .article__link {
@@ -67,6 +71,7 @@ body {
   left: 420px;
   top: 299px;
   border-radius: 74px;
+  box-shadow:0 0 6px black;
 
 }
 
@@ -76,4 +81,7 @@ body {
     border-radius: 50%;
     margin: 10px;
     
+}
+.picture:hover{
+    transform: scale(1.2);
 }
