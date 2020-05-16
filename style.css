@@ -24,6 +24,7 @@ body {
   display: flex;
   align-items: flex-start;
   font-size: 16px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
 }
 .article {
 }
@@ -56,6 +57,7 @@ body {
   margin-bottom: 24px;
   font-style: italic;
   font-size: 18px;
+  color: rgb(216, 215, 215);
 }
 
 .header__picture {
