@@ -75,13 +75,13 @@ body {
 
 }
 
-.picture{
+.article__picture{
     width: 25px;
     height: 25px;
     border-radius: 50%;
     margin: 10px;
     
 }
-.picture:hover{
+.article__picture:hover{
     transform: scale(1.2);
 }
